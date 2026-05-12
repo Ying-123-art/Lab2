@@ -1,1 +1,2 @@
-"# HomeWork" 
+Xây dựng ứng dụng hiển thị thông tin cá nhân bằng Jetpack Compose . Ứng dụng hiển thị thông tin cơ bản như họ tên , sđt ,...
+
